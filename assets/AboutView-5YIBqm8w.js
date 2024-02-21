@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t}from"./index-IMrggvyR.js";const c={},a={class:"row"},n=t("h2",null,"這是關於我們頁面",-1),_=[n];function r(d,i,p,l,f,u){return o(),s("div",a,_)}const m=e(c,[["render",r]]);export{m as default};

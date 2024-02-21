@@ -1,1 +1,0 @@
-import{_ as o,o as s,c as t,a as e}from"./index-VFWDc2Vc.js";const c={},n={class:"row"},_=e("h2",null,"產品管理",-1),r=e("pre",null,null,-1),a=[_,r];function l(d,i){return s(),t("div",n,a)}const f=o(c,[["render",l]]);export{f as default};
